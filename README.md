@@ -9,6 +9,9 @@ This project utilizes computer vision techniques to create a gesture-controlled 
 - PyAutoGUI
 - Mediapipe
 
+## Video Demonstration
+Check out a video demonstration of the project by clicking on "project demonstration.mp4".
+
 ## Usage
 
 1. Run the script `handgesturevolumecontrol.py`:
